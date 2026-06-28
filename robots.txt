@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://phr4kt1l.bentuniverse.com/sitemap.xml
